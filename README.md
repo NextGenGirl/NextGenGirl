@@ -1,30 +1,26 @@
-# Hello👋 fellow tech enthusiasts! Ready to dive into innovation? This is [Your Name]! 🚀
+# Hello👋 fellow tech enthusiasts! Ready to dive into innovation? This is Tejaswini Todkar! 🚀
 
-## A Passionate Developer | AIML & Data Science Enthusiast  
+## A Passionate Developer | Tech Enthusiast  
 ### Building Solutions, One Algorithm at a Time! 💡
 
 ---
 
 ### 🌟 About Me:
-- 🎓 **Final Year Computer Engineering Student** (Honors in AIML) at **A P Shah Institute Of Technology**  
-- 🏆 **Rank Holder (CGPA: 9.0)** | **Scholarship Recipient (Rs. 20,000)**  
-- 💻 **Aspiring Software Developer (AIML Domain)**  
+- 🎓 **Computer Engineering Student** (Honors in AIML) 
+- 🏆 **Rank Holder (CGPA: 9.046)**   
+- 💻 **Aspiring Software Developer**  
 - 🌱 Currently **exploring SLMs, LLMs, and Deep Learning for Real-World AI Applications**  
-- 📊 Passionate about **Data Science, ML Model Development, and AI Research**  
-- 📌 Interested in **Urban Planning AI, Healthcare AI, and Financial Tech**  
-- 🚀 **Dreaming of FAANG!**  
+- 📊 Passionate about **GenAI, ML Model Development, and Web Dev**    
 - 📚 Strong believer in **Continuous Learning & Community Engagement**  
 
 ---
 
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YOUR-GITHUB)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-blue?logo=kaggle)](https://www.kaggle.com/YOUR-KAGGLE)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/YOUR-LEETCODE)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-Solve-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/YOUR-GFG)
 
-📩 Reach me at **your.email@example.com**
+
+📩 Reach me at **tejaswinitodkar0311@gmail.com**
 
 ---
 
@@ -55,12 +51,7 @@
 
 ---
 
-### 🚀 Featured Projects  
-- **🧠 Alzheimer's Detection using MRI Scans** (Deep Learning)  
-- **📊 Fraud Transaction Detection** (Logistic Regression)  
-- **🌇 CitySense: AI for Sustainable Urban Planning**  
-- **💬 AI Chatbot for Alzheimer’s Patients** (LLM/SLM)  
-- **📖 AI-Based Text Summarization** (BART/T5)  
+
 
 📌 Check out more projects in my repositories!
 
