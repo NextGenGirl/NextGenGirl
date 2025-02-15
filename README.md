@@ -16,8 +16,8 @@
 ---
 
 ### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/YOUR-LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tejaswini-todkar-a120b2232/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/u/MIsbhnKl9h/)
 
 
 📩 Reach me at **tejaswinitodkar0311@gmail.com**
